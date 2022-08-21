@@ -1,0 +1,8 @@
+Name:Sukirtha L
+Subjects:Maths:200
+chemistry:191
+Physics:195
+Bio:180
+Tamil:195
+English:195
+School:Bharani Park
